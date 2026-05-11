@@ -6,9 +6,8 @@ NetSpyre (https://github.com/vikram249/netspyre)
 
 Authors:
 ----
-Asia Pacific University 
 
-  Vikram Prasad (vikramprasad249@gmail.com)
+  Vikram Prasad
 
 
 Description
